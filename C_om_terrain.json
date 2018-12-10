@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cache_main",
+    "type": "overmap_terrain",
+    "name": "prepper cache",
+    "sym": 70,
+    "color": "green",
+    "see_cost": 3
+  },
+  {
+    "id": "cache_under",
+    "type": "overmap_terrain",
+    "name": "prepper cache",
+    "sym": 70,
+    "color": "green",
+    "see_cost": 2
+  }
+]
