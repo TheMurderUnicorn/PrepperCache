@@ -1,7 +1,7 @@
 # PrepperCache
 Mod for Cataclysm DDA - Prepper Caches
 
-This is a simple mod that adds 'prepper caches' to the game.  These are small locations that 'doomsday preppers' have used to stache supplies in case of the apocalypse.  This mod does not add new items or new monsters.  It does have custom itemgroups, but they contain vanilla items.
+This is a simple mod that adds 'prepper caches' to the game.  These are small locations that 'doomsday preppers' have used to stash supplies in case of the apocalypse.  This mod does not add new items or new monsters.  It does have custom itemgroups, but they contain vanilla items.
 
 The inspiration for this is the game The Long Dark, in which there are small bunkers full of supplies.  In that game, each cache contains different supplies following a theme (clothing, weapons, food, etc.).  Because they were the basis for the mod, my locations follow a similar theme.
 
