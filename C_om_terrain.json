@@ -3,16 +3,16 @@
     "id": "cache_main",
     "type": "overmap_terrain",
     "name": "prepper cache",
-    "sym": 70,
-    "color": "green",
+    "sym": 63,
+    "color": "white",
     "see_cost": 3
   },
   {
     "id": "cache_under",
     "type": "overmap_terrain",
     "name": "prepper cache",
-    "sym": 70,
-    "color": "green",
+    "sym": 63,
+    "color": "white",
     "see_cost": 2
   }
 ]
