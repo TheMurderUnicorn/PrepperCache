@@ -418,5 +418,10 @@
       { "item": "cable", "prob": 60 },
       { "item": "wire", "prob": 100, "count": [ 1, 6 ] }
     ]
+  },
+  {
+    "id": "gear_survival",
+    "type": "item_group",
+    "items": [ [ "cachemap", 3 ] ]
   }
 ]
